@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         false
+#pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            "Gilbert Gede's Webpage"
+tagline:          'I never update this'
+description:      'That website never updated by Gilbert.'
+#url:              http://
+
+author:
+  name:           'Gilbert Gede'
+  #url:            https://
+
+paginate:         1
+
+# Custom vars
+#version:          1.0.0
+
+github:
+  page:           https://github.com/gilbertgede/
+  repo:           https://github.com/gilbertgede/gilbertgede.github.io
